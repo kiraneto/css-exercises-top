@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-numbered-element {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger-text {
+    font-size: 24px;
+}
+
+#para-two {
+    color: rgb(11, 11, 214);
+    font-size: 36px;
+}
+
+#para-four {
+    background-color: rgb(142, 226, 142);
+    font-weight: bold;
+}
