@@ -4,9 +4,21 @@ body {
 }
 
 .card {
-  width: 400px;
+  width: 500px;
   background: #fff;
   margin: 16px auto;
+  padding: 16px;
+}
+
+.title,
+.content,
+.button-container {
+  padding: 16px;
+}
+
+.title,
+.content {
+  margin-bottom: 16px;
 }
 
 .title {
@@ -19,9 +31,13 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  padding: 16px 32px;
 }
